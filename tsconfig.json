@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "types": [
+            "./ambientTypes/ambient-types"
+        ],
+        "strictNullChecks": true,
+        "allowJs": true,
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "allowUnreachableCode": false,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

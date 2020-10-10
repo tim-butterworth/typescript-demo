@@ -1,0 +1,27 @@
+{
+  "name": "typescriptdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts": "ts-node",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-butterworth/typescript-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tim-butterworth/typescript-demo/issues"
+  },
+  "homepage": "https://github.com/tim-butterworth/typescript-demo#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.161",
+    "lodash": "^4.17.20",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
