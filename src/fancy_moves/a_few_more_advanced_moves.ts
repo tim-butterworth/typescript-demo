@@ -1,0 +1,3 @@
+// partial
+
+// mapped types
